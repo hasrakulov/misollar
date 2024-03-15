@@ -95,3 +95,102 @@ function howManySeconds(hours) {
 }
 
 ```
+
+[11. How Edabit Works] (https://edabit.com/challenge/nhXofMMyrowMyr9Nv)
+
+```js
+
+function nextEdge(side1, side2) {
+	return (side1 + side2) - 1
+}
+
+```
+
+[12. How Edabit Works] (https://edabit.com/challenge/Q2j5FTFtsk7PdzrQk)
+
+```js
+
+function remainder(x, y) {
+	return x % y;
+}
+
+```
+
+[13. How Edabit Works] (https://edabit.com/challenge/XnJ24rWW7iJkNrtsh)
+
+```js
+
+function findPerimeter(length, width) {
+	return (length + width) * 2
+}
+
+```
+
+[14. How Edabit Works] (https://edabit.com/challenge/MvZK536X7fyrWH8Qc)
+
+```js
+
+function giveMeSomething(a) {
+	return "something " + a;
+}
+
+```
+
+[15. How Edabit Works] (https://edabit.com/challenge/ks3vMrqdnW3CQ3F4i)
+
+```js
+
+function squared(b) {
+	return (b * b)
+}
+
+```
+[16. How Edabit Works] (https://edabit.com/challenge/PTiLYyb4A69KZtBCg)
+
+```js
+
+function lessThanOrEqualToZero(num) {
+	return num <= 0
+}
+
+```
+
+[17. How Edabit Works] (https://edabit.com/challenge/fBJyQSe5Jmbm9hPAG)
+
+```js
+
+function sumPolygon(n) {
+	return (n - 2) * 180
+}
+
+```
+
+[18. How Edabit Works] (https://edabit.com/challenge/Y46Xp2pcvTB77bmdD)
+
+```js
+
+function points(twoPointers, threePointers) {
+	return twoPointers * 2 + threePointers * 3
+}
+
+```
+
+[19. How Edabit Works] (https://edabit.com/challenge/ZNwHGgHvsdnYwJ5WK)
+
+```js
+
+function nameString(name){
+	return name + "Edabit"
+}
+
+```
+
+[20. How Edabit Works] (https://edabit.com/challenge/9MjEpkL7yAjAqiH58)
+
+```js
+
+function lessThan100(a, b) {
+	return a + b < 100
+}
+
+```
