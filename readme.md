@@ -1,4 +1,4 @@
-[1. How Edabit Works] (https://edabit.com/challenge/ARr5tA458o2tC9FTN)
+[1. How Edabit Works](https://edabit.com/challenge/ARr5tA458o2tC9FTN)
 
 ```js
 
@@ -8,7 +8,7 @@ function hello() {
 
 ```
 
-[2. How Edabit Works] (https://edabit.com/challenge/3LpBLgNRyaHMvNb4j)
+[2. How Edabit Works](https://edabit.com/challenge/3LpBLgNRyaHMvNb4j)
 
 ```js
 
@@ -18,7 +18,7 @@ function addition(a, b) {
 
 ```
 
-[3. How Edabit Works] (https://edabit.com/challenge/8q54MKnRrm89pSLmW)
+[3. How Edabit Works](https://edabit.com/challenge/8q54MKnRrm89pSLmW)
 
 ```js
 
@@ -28,7 +28,7 @@ function convert(minutes) {
 
 ```
 
-[4. How Edabit Works] (https://edabit.com/challenge/NAQhEoxbofPidLxm9)
+[4. How Edabit Works](https://edabit.com/challenge/NAQhEoxbofPidLxm9)
 
 ```js
 
@@ -38,7 +38,7 @@ function addition(num) {
 
 ```
 
-[5. How Edabit Works] (https://edabit.com/challenge/3CaszbdZYGN4otQD8)
+[5. How Edabit Works](https://edabit.com/challenge/3CaszbdZYGN4otQD8)
 
 ```js
 
@@ -48,7 +48,7 @@ function triArea(base, height) {
 
 ```
 
-[6. How Edabit Works] (https://edabit.com/challenge/bL7hSc6Zh4zZJzGmw)
+[6. How Edabit Works](https://edabit.com/challenge/bL7hSc6Zh4zZJzGmw)
 
 ```js
 
@@ -58,7 +58,7 @@ function calcAge(age) {
 
 ```
 
-[7. How Edabit Works] (https://edabit.com/challenge/j7yQbF3J3rToHsDBP)
+[7. How Edabit Works](https://edabit.com/challenge/j7yQbF3J3rToHsDBP)
 
 ```js
 
@@ -68,7 +68,7 @@ function cubes(a) {
 
 ```
 
-[8. How Edabit Works] (https://edabit.com/challenge/QaApgtePE6QrCZ64o)
+[8. How Edabit Works](https://edabit.com/challenge/QaApgtePE6QrCZ64o)
 
 ```js
 
@@ -76,7 +76,7 @@ function cubes(a) {
 
 ```
 
-[9. How Edabit Works] (https://edabit.com/challenge/wAdE9te55cowBLcPs)
+[9. How Edabit Works](https://edabit.com/challenge/wAdE9te55cowBLcPs)
 
 ```js
 
@@ -86,7 +86,7 @@ function circuitPower(voltage, current) {
 
 ```
 
-[10. How Edabit Works] (https://edabit.com/challenge/6AnQqiEjkJdZrWhPS)
+[10. How Edabit Works](https://edabit.com/challenge/6AnQqiEjkJdZrWhPS)
 
 ```js
 
@@ -96,7 +96,7 @@ function howManySeconds(hours) {
 
 ```
 
-[11. How Edabit Works] (https://edabit.com/challenge/nhXofMMyrowMyr9Nv)
+[11. How Edabit Works](https://edabit.com/challenge/nhXofMMyrowMyr9Nv)
 
 ```js
 
@@ -106,7 +106,7 @@ function nextEdge(side1, side2) {
 
 ```
 
-[12. How Edabit Works] (https://edabit.com/challenge/Q2j5FTFtsk7PdzrQk)
+[12. How Edabit Works](https://edabit.com/challenge/Q2j5FTFtsk7PdzrQk)
 
 ```js
 
@@ -116,7 +116,7 @@ function remainder(x, y) {
 
 ```
 
-[13. How Edabit Works] (https://edabit.com/challenge/XnJ24rWW7iJkNrtsh)
+[13. How Edabit Works](https://edabit.com/challenge/XnJ24rWW7iJkNrtsh)
 
 ```js
 
@@ -126,7 +126,7 @@ function findPerimeter(length, width) {
 
 ```
 
-[14. How Edabit Works] (https://edabit.com/challenge/MvZK536X7fyrWH8Qc)
+[14. How Edabit Works](https://edabit.com/challenge/MvZK536X7fyrWH8Qc)
 
 ```js
 
@@ -136,7 +136,7 @@ function giveMeSomething(a) {
 
 ```
 
-[15. How Edabit Works] (https://edabit.com/challenge/ks3vMrqdnW3CQ3F4i)
+[15. How Edabit Works](https://edabit.com/challenge/ks3vMrqdnW3CQ3F4i)
 
 ```js
 
@@ -145,7 +145,7 @@ function squared(b) {
 }
 
 ```
-[16. How Edabit Works] (https://edabit.com/challenge/PTiLYyb4A69KZtBCg)
+[16. How Edabit Works](https://edabit.com/challenge/PTiLYyb4A69KZtBCg)
 
 ```js
 
@@ -155,7 +155,7 @@ function lessThanOrEqualToZero(num) {
 
 ```
 
-[17. How Edabit Works] (https://edabit.com/challenge/fBJyQSe5Jmbm9hPAG)
+[17. How Edabit Works](https://edabit.com/challenge/fBJyQSe5Jmbm9hPAG)
 
 ```js
 
@@ -165,7 +165,7 @@ function sumPolygon(n) {
 
 ```
 
-[18. How Edabit Works] (https://edabit.com/challenge/Y46Xp2pcvTB77bmdD)
+[18. How Edabit Works](https://edabit.com/challenge/Y46Xp2pcvTB77bmdD)
 
 ```js
 
@@ -175,7 +175,7 @@ function points(twoPointers, threePointers) {
 
 ```
 
-[19. How Edabit Works] (https://edabit.com/challenge/ZNwHGgHvsdnYwJ5WK)
+[19. How Edabit Works](https://edabit.com/challenge/ZNwHGgHvsdnYwJ5WK)
 
 ```js
 
@@ -185,12 +185,121 @@ function nameString(name){
 
 ```
 
-[20. How Edabit Works] (https://edabit.com/challenge/9MjEpkL7yAjAqiH58)
+[20. How Edabit Works](https://edabit.com/challenge/9MjEpkL7yAjAqiH58)
 
 ```js
 
 function lessThan100(a, b) {
 	return a + b < 100
+}
+
+```
+
+[21. Buggy Code (Part 5)](https://edabit.com/challenge/4iCsexZgmDEMMxj46)
+
+```js
+
+function printArray(number) {
+  var newArray = [];
+
+  for(var i = 1; i <= number; i++) {
+    newArray.push(i);
+  }
+
+  return newArray;
+}
+
+```
+
+[22. Buggy Code (Part 7)](https://edabit.com/challenge/CCGBig9eRPFzAHv46)
+
+```js
+
+function swap(a, b) {
+
+	[a,b] = [b,a]	
+
+	return [a, b]
+}
+
+```
+
+[23. The Farm Problem](https://edabit.com/challenge/8Qg78sf5SNDEANKti)
+
+```js
+
+function animals(chickens, cows, pigs) {
+	return chickens*2+(cows+pigs)*4;
+}
+
+```
+
+[24. Using the "&&" Operator](https://edabit.com/challenge/vJCZmgvvDjehyDcDK)
+
+```js
+
+function and(a, b) {
+	return a && b;
+}
+
+```
+
+[25. Are the Numbers Equal?](QSnaSH5S3oxZkwcNc)
+
+```js
+
+function isSameNum(num1, num2) {
+	return num1 === num2
+}
+
+```
+
+[26. Football Points](https://edabit.com/challenge/GwvwXHWCThHZrR7xu)
+
+```js
+
+function footballPoints(wins, draws, losses) {
+	return wins*3 + draws;
+}
+
+```
+
+[27. Convert Hours and Minutes into Seconds](https://edabit.com/challenge/JesaFi5ntBEbGT8bu)
+
+```js
+
+function convert(hours, minutes) {
+	return ((hours*60) + minutes) * 60
+}
+
+```
+
+[28. Fix the Expression](https://edabit.com/challenge/FipbQSYquQLPZ8QXG)
+
+```js
+
+function isSeven(x) {
+	return x === 7;
+}
+
+```
+
+[29. Equality Check](https://edabit.com/challenge/BGvTMfwxYDRbtaTJ3)
+
+```js
+
+function checkEquality(a, b) {
+  return a === b;
+}
+
+```
+
+[30. Profitable Gamble](https://edabit.com/challenge/ghbHrRnRiDz9fvQNF)
+
+```js
+
+function profitableGamble(prob, prize, pay) {
+	return (prob * prize - pay) > 0
 }
 
 ```
