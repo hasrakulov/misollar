@@ -303,3 +303,203 @@ function profitableGamble(prob, prize, pay) {
 }
 
 ```
+
+[31. Boolean to String Conversion](https://edabit.com/challenge/KSTkFSnaYBJdo6PHx)
+
+```js
+
+function boolToString(flag) {
+    return flag + "";
+}
+
+```
+
+[32. Using Arrow Functions](https://edabit.com/challenge/QkvDge63crdGnMfvM)
+
+```js
+
+arrowFunc = (number) => {
+    return number
+}
+
+```
+
+[33. Frames Per Second](https://edabit.com/challenge/d9suvbchE2bnHNQuK)
+
+```js
+
+function frames(minutes, fps) {
+    return (minutes * 60) * fps
+}
+
+```
+
+[34. Miserable Parody of a Calculator](https://edabit.com/challenge/fh9i7k936rvfjnCYR)
+
+```js
+
+function calculator(str) {
+    return eval(str)
+}
+
+```
+
+[35. Buggy Code (Part4)](https://edabit.com/challenge/4SmqXvQtL6qRgzfha)
+
+```js
+
+function greeting(name){
+  if(name == "Mubashir") {
+    return "Hello, my Love!";
+  }
+	return "Hello, " + name + "!";
+  
+}
+
+```
+
+[36. Two Makes Ten](https://edabit.com/challenge/5erCDJ8eJDrXkmwTK)
+
+```js
+
+function makesTen(a,b) {
+	let sum = a + b
+	if (a == 10 || b == 10 || sum == 10){
+		return true
+	}else{
+		return false
+	}
+}
+
+```
+
+[37. Let's Fuel Up!](https://edabit.com/challenge/YMWDcSuYwYvve3HZj)
+
+```js
+
+function calculateFuel(n) {
+	if (n <= 10){
+		return 100
+	}else{
+		return n * 10 
+	}
+}
+
+```
+
+[38. Buggy Code (Part 2)](https://edabit.com/challenge/uE9AJ4sSrrpSASMpu)
+
+```js
+
+function maxNum(n1,n2) {
+	if (n1<n2) {
+	  return n2
+	}
+  else {
+	return n1
+  }
+}
+
+```
+
+[39. Pair Management](https://edabit.com/challenge/BFnsRqe8PFvEwcRNt)
+
+```js
+
+function makePair(num1, num2) {
+	return [num1,num2]
+}
+
+```
+
+[40. Compare Strings by Count of Characters](https://edabit.com/challenge/yHGowWucg3k2kJdZ4)
+
+```js
+
+function comp(str1, str2) {
+	return str1.length === str2.length;
+}
+
+```
+
+[41. Is the String Empty?](https://edabit.com/challenge/EzbfiquDoAc2Zc9FL)
+
+```js
+
+function isEmpty(s) {
+	return s.length == 0;
+}
+
+```
+
+[42. Check if an Integer is Divisible By Five](https://edabit.com/challenge/iBQYbSHZGhpktLRdn)
+
+```js
+
+
+
+```
+
+[43. ]()
+
+```js
+
+
+
+```
+
+[44. ]()
+
+```js
+
+
+
+```
+
+[45. ]()
+
+```js
+
+
+
+```
+
+[46. ]()
+
+```js
+
+
+
+```
+
+[47. ]()
+
+```js
+
+
+
+```
+
+[48. ]()
+
+```js
+
+
+
+```
+
+[49. ]()
+
+```js
+
+
+
+```
+
+[50. ]()
+
+```js
+
+
+
+```
